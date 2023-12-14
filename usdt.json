@@ -1,0 +1,500 @@
+[
+  {
+    "symbol": "USDT",
+    "name": "Tether USD",
+    "chainId": 1,
+    "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "decimals": 6,
+    "logoURI": "https://tokens.1inch.io/0xdac17f958d2ee523a2206206994597c13d831ec7.png",
+    "rating": 13,
+    "eip2612": false,
+    "tags": [
+      {
+        "value": "bases",
+        "provider": "Roll Social Money"
+      },
+      {
+        "value": "PEG:USD",
+        "provider": "1inch"
+      },
+      {
+        "value": "stablecoin",
+        "provider": "Dharma Token List"
+      },
+      {
+        "value": "tether",
+        "provider": "Wrapped Tokens"
+      },
+      {
+        "value": "tokens",
+        "provider": "1inch"
+      },
+      {
+        "value": "usdt",
+        "provider": "Wrapped Tokens"
+      }
+    ],
+    "providers": [
+      "1inch",
+      "CMC200 ERC20",
+      "CMC Stablecoin",
+      "CoinGecko",
+      "Compound",
+      "Dharma Token List",
+      "Furucombo",
+      "Kleros Tokens",
+      "MyCrypto Token List",
+      "Roll Social Money",
+      "Uniswap Labs Default",
+      "Wrapped Tokens",
+      "Zerion"
+    ]
+  },
+  {
+    "symbol": "cUSDT",
+    "name": "Compound USDT",
+    "chainId": 1,
+    "address": "0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9",
+    "decimals": 8,
+    "logoURI": "https://tokens.1inch.io/0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9.png",
+    "rating": 7,
+    "eip2612": false,
+    "tags": [
+      {
+        "value": "compound",
+        "provider": "Dharma Token List"
+      },
+      {
+        "value": "PEG:USD",
+        "provider": "1inch"
+      },
+      {
+        "value": "savings",
+        "provider": "1inch"
+      },
+      {
+        "value": "stablecoin",
+        "provider": "Dharma Token List"
+      },
+      {
+        "value": "yield",
+        "provider": "Dharma Token List"
+      }
+    ],
+    "providers": [
+      "1inch",
+      "CMC DeFi",
+      "Compound",
+      "Dharma Token List",
+      "Furucombo",
+      "Kleros Tokens",
+      "Zerion"
+    ]
+  },
+  {
+    "symbol": "USDT",
+    "name": "Tether USD",
+    "chainId": 56,
+    "address": "0x55d398326f99059ff775485246999027b3197955",
+    "decimals": 18,
+    "logoURI": "https://tokens.1inch.io/0xdac17f958d2ee523a2206206994597c13d831ec7.png",
+    "rating": 6,
+    "eip2612": false,
+    "tags": [
+      {
+        "value": "PEG:USD",
+        "provider": "1inch"
+      },
+      {
+        "value": "tokens",
+        "provider": "1inch"
+      }
+    ],
+    "providers": [
+      "1inch",
+      "BORGSWAP",
+      "PancakeSwap Default List",
+      "PancakeSwap Extended",
+      "Trust Wallet Assets",
+      "Venus Default List"
+    ]
+  },
+  {
+    "symbol": "aUSDT",
+    "name": "Aave interest bearing USDT",
+    "chainId": 1,
+    "address": "0x3ed3b47dd13ec9a98b44e6204a523e766b225811",
+    "decimals": 6,
+    "logoURI": "https://tokens.1inch.io/0x3ed3b47dd13ec9a98b44e6204a523e766b225811.png",
+    "rating": 5,
+    "eip2612": true,
+    "tags": [
+      {
+        "value": "aavev2",
+        "provider": "Zerion"
+      },
+      {
+        "value": "PEG:USD",
+        "provider": "1inch"
+      },
+      {
+        "value": "tokens",
+        "provider": "1inch"
+      }
+    ],
+    "providers": [
+      "1inch",
+      "CoinGecko",
+      "Furucombo",
+      "Kleros Tokens",
+      "Zerion"
+    ]
+  },
+  {
+    "symbol": "aUSDTv1",
+    "name": "Aave Interest bearing USDT",
+    "chainId": 1,
+    "address": "0x71fc860f7d3a592a4a98740e39db31d25db65ae8",
+    "decimals": 6,
+    "logoURI": "https://tokens.1inch.io/0x71fc860f7d3a592a4a98740e39db31d25db65ae8.png",
+    "rating": 5,
+    "eip2612": false,
+    "tags": [
+      {
+        "value": "PEG:USD",
+        "provider": "1inch"
+      },
+      {
+        "value": "savings",
+        "provider": "1inch"
+      }
+    ],
+    "providers": [
+      "1inch",
+      "CMC DeFi",
+      "CoinGecko",
+      "Furucombo",
+      "Zerion"
+    ]
+  },
+  {
+    "symbol": "yUSD",
+    "name": "yearn Curve.fi yDAI/yUSDC/yUSDT/yTUSD",
+    "chainId": 1,
+    "address": "0x5dbcf33d8c2e976c6b560249878e6f1491bca25c",
+    "decimals": 18,
+    "logoURI": "https://tokens.1inch.io/0x5dbcf33d8c2e976c6b560249878e6f1491bca25c.png",
+    "rating": 4,
+    "eip2612": false,
+    "tags": [
+      {
+        "value": "PEG:USD",
+        "provider": "1inch"
+      },
+      {
+        "value": "stablecoin",
+        "provider": "Dharma Token List"
+      },
+      {
+        "value": "tokens",
+        "provider": "1inch"
+      },
+      {
+        "value": "yearn",
+        "provider": "Dharma Token List"
+      },
+      {
+        "value": "yield",
+        "provider": "Dharma Token List"
+      }
+    ],
+    "providers": [
+      "1inch",
+      "Dharma Token List",
+      "Furucombo",
+      "Zerion"
+    ]
+  },
+  {
+    "symbol": "USDT",
+    "name": "Tether USD",
+    "chainId": 137,
+    "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+    "decimals": 6,
+    "logoURI": "https://tokens.1inch.io/0xdac17f958d2ee523a2206206994597c13d831ec7.png",
+    "rating": 3,
+    "eip2612": false,
+    "tags": [
+      {
+        "value": "PEG:USD",
+        "provider": "1inch"
+      },
+      {
+        "value": "tokens",
+        "provider": "1inch"
+      }
+    ],
+    "providers": [
+      "1inch",
+      "Quickswap Token List",
+      "Trust Wallet Assets"
+    ]
+  },
+  {
+    "symbol": "USDT",
+    "name": "Tether USD",
+    "chainId": 42161,
+    "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "decimals": 6,
+    "logoURI": "https://tokens.1inch.io/0xdac17f958d2ee523a2206206994597c13d831ec7.png",
+    "rating": 2,
+    "eip2612": false,
+    "tags": [
+      {
+        "value": "PEG:USD",
+        "provider": "1inch"
+      },
+      {
+        "value": "tokens",
+        "provider": "1inch"
+      }
+    ],
+    "providers": [
+      "1inch",
+      "Arb Whitelist Era"
+    ]
+  },
+  {
+    "symbol": "vUSDT",
+    "name": "Venus USDT",
+    "chainId": 56,
+    "address": "0xfd5840cd36d94d7229439859c0112a4185bc0255",
+    "decimals": 8,
+    "logoURI": "https://tokens.1inch.io/0xfd5840cd36d94d7229439859c0112a4185bc0255.png",
+    "rating": 2,
+    "eip2612": false,
+    "tags": [
+      {
+        "value": "PEG:USD",
+        "provider": "1inch"
+      },
+      {
+        "value": "tokens",
+        "provider": "1inch"
+      }
+    ],
+    "providers": [
+      "1inch",
+      "Venus Default List"
+    ]
+  },
+  {
+    "symbol": "USDT",
+    "name": "Tether USD",
+    "chainId": 10,
+    "address": "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
+    "decimals": 6,
+    "logoURI": "https://tokens.1inch.io/0x94b008aa00579c1307b0ef2c499ad98a8ce58e58.png",
+    "rating": 1,
+    "eip2612": false,
+    "tags": [
+      {
+        "value": "PEG:USD",
+        "provider": "1inch"
+      },
+      {
+        "value": "tokens",
+        "provider": "1inch"
+      }
+    ],
+    "providers": [
+      "1inch"
+    ]
+  },
+  {
+    "symbol": "USDT",
+    "name": "Tether on xDai",
+    "chainId": 100,
+    "address": "0x4ecaba5870353805a9f068101a40e0f32ed605c6",
+    "decimals": 6,
+    "logoURI": "https://tokens.1inch.io/0xdac17f958d2ee523a2206206994597c13d831ec7.png",
+    "rating": 1,
+    "eip2612": false,
+    "tags": [
+      {
+        "value": "PEG:USD",
+        "provider": "1inch"
+      },
+      {
+        "value": "tokens",
+        "provider": "1inch"
+      }
+    ],
+    "providers": [
+      "1inch"
+    ]
+  },
+  {
+    "symbol": "USDt",
+    "name": "TetherToken",
+    "chainId": 43114,
+    "address": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
+    "decimals": 6,
+    "logoURI": "https://tokens.1inch.io/0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7.png",
+    "rating": 1,
+    "eip2612": true,
+    "tags": [
+      {
+        "value": "PEG:USD",
+        "provider": "1inch"
+      },
+      {
+        "value": "tokens",
+        "provider": "1inch"
+      }
+    ],
+    "providers": [
+      "1inch"
+    ]
+  },
+  {
+    "symbol": "USDT",
+    "name": "Tether USD",
+    "chainId": 1313161554,
+    "address": "0x4988a896b1227218e4a686fde5eabdcabd91571f",
+    "decimals": 6,
+    "logoURI": "https://tokens.1inch.io/0x4988a896b1227218e4a686fde5eabdcabd91571f.png",
+    "rating": 1,
+    "eip2612": false,
+    "tags": [
+      {
+        "value": "PEG:USD",
+        "provider": "1inch"
+      },
+      {
+        "value": "tokens",
+        "provider": "1inch"
+      }
+    ],
+    "providers": [
+      "1inch"
+    ]
+  },
+  {
+    "symbol": "USDT.e",
+    "name": "Tether USD",
+    "chainId": 43114,
+    "address": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+    "decimals": 6,
+    "logoURI": "https://tokens.1inch.io/0xc7198437980c041c805a1edcba50c1ce5db95118.png",
+    "rating": 1,
+    "eip2612": false,
+    "tags": [
+      {
+        "value": "PEG:USD",
+        "provider": "1inch"
+      },
+      {
+        "value": "tokens",
+        "provider": "1inch"
+      }
+    ],
+    "providers": [
+      "1inch"
+    ]
+  },
+  {
+    "symbol": "yUSDTv3",
+    "name": "iearn USDT v3",
+    "chainId": 1,
+    "address": "0xe6354ed5bc4b393a5aad09f21c46e101e692d447",
+    "decimals": 6,
+    "logoURI": "https://tokens.1inch.io/0xe6354ed5bc4b393a5aad09f21c46e101e692d447.png",
+    "rating": 1,
+    "eip2612": false,
+    "tags": [
+      {
+        "value": "PEG:USD",
+        "provider": "1inch"
+      },
+      {
+        "value": "tokens",
+        "provider": "1inch"
+      }
+    ],
+    "providers": [
+      "1inch"
+    ]
+  },
+  {
+    "symbol": "yUSDTv2",
+    "name": "iearn USDT v2",
+    "chainId": 1,
+    "address": "0x83f798e925bcd4017eb265844fddabb448f1707d",
+    "decimals": 6,
+    "logoURI": "https://tokens.1inch.io/0x83f798e925bcd4017eb265844fddabb448f1707d.png",
+    "rating": 1,
+    "eip2612": false,
+    "tags": [
+      {
+        "value": "PEG:USD",
+        "provider": "1inch"
+      },
+      {
+        "value": "tokens",
+        "provider": "1inch"
+      }
+    ],
+    "providers": [
+      "1inch"
+    ]
+  },
+  {
+    "symbol": "USDT",
+    "name": "Tether USDT",
+    "chainId": 8217,
+    "address": "0xd6dab4cff47df175349e6e7ee2bf7c40bb8c05a3",
+    "decimals": 6,
+    "logoURI": "https://tokens.1inch.io/0xdac17f958d2ee523a2206206994597c13d831ec7.png",
+    "rating": 0,
+    "eip2612": false,
+    "tags": [],
+    "providers": []
+  },
+  {
+    "symbol": "USDT.e",
+    "name": "Tether USD",
+    "chainId": 43114,
+    "address": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+    "decimals": 6,
+    "logoURI": "https://s3.amazonaws.com/cms-cdn.avascan.com/transparent_341f649a20.png",
+    "rating": 0,
+    "eip2612": false,
+    "tags": [],
+    "providers": []
+  },
+  {
+    "symbol": "cyUSDT",
+    "name": "Yearn Tether USD",
+    "chainId": 1,
+    "address": "0x48759f220ed983db51fa7a8c0d2aab8f3ce4166a",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/yearn/yearn-assets/master/icons/tokens/0x48759F220ED983dB51fA7A8C0D2AAb8f3ce4166a/logo.svg",
+    "rating": 0,
+    "eip2612": false,
+    "tags": [],
+    "providers": []
+  },
+  {
+    "symbol": "cyCUSDT",
+    "name": "Yearn Compound USDT",
+    "chainId": 1,
+    "address": "0xbb4b067cc612494914a902217cb6078ab4728e36",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/yearn/yearn-assets/master/icons/tokens/0xBB4B067cc612494914A902217CB6078aB4728E36/logo.svg",
+    "rating": 0,
+    "eip2612": false,
+    "tags": [],
+    "providers": []
+  }
+]

@@ -1,0 +1,258 @@
+[
+  {
+    "symbol": "DAI",
+    "name": "(PoS) Dai Stablecoin",
+    "chainId": 137,
+    "address": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+    "decimals": 18,
+    "logoURI": "https://tokens.1inch.io/0x6b175474e89094c44da98b954eedeac495271d0f.png",
+    "rating": 3,
+    "eip2612": false,
+    "tags": [
+      {
+        "value": "PEG:USD",
+        "provider": "1inch"
+      },
+      {
+        "value": "tokens",
+        "provider": "1inch"
+      }
+    ],
+    "providers": [
+      "1inch",
+      "Quickswap Token List",
+      "Trust Wallet Assets"
+    ]
+  },
+  {
+    "symbol": "DAI",
+    "name": "Dai Stablecoin",
+    "chainId": 137,
+    "address": "0xcb1e72786a6eb3b44c2a2429e317c8a2462cfeb1",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
+    "rating": 1,
+    "eip2612": false,
+    "tags": [],
+    "providers": [
+      "Quickswap Token List"
+    ]
+  },
+  {
+    "symbol": "oDAI",
+    "name": "Orbit Bridge Polygon Dai",
+    "chainId": 137,
+    "address": "0x8ece0a50a025a7e13398212a5bed2ded11959949",
+    "decimals": 18,
+    "logoURI": "https://tokens.1inch.io/0x8ece0a50a025a7e13398212a5bed2ded11959949.png",
+    "rating": 1,
+    "eip2612": false,
+    "tags": [
+      {
+        "value": "tokens",
+        "provider": "1inch"
+      }
+    ],
+    "providers": [
+      "1inch"
+    ]
+  },
+  {
+    "symbol": "amDAI",
+    "name": "Aave Matic Market DAI",
+    "chainId": 137,
+    "address": "0x27f8d03b3a2196956ed754badc28d73be8830a6e",
+    "decimals": 18,
+    "logoURI": "https://tokens.1inch.io/0x028171bca77440897b824ca71d1c56cac55b68a3.png",
+    "rating": 1,
+    "eip2612": true,
+    "tags": [
+      {
+        "value": "tokens",
+        "provider": "1inch"
+      }
+    ],
+    "providers": [
+      "1inch"
+    ]
+  },
+  {
+    "symbol": "DLYCOP",
+    "name": "Daily COP",
+    "chainId": 137,
+    "address": "0x1659ffb2d40dfb1671ac226a0d9dcc95a774521a",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x1659fFb2d40DfB1671Ac226A0D9Dcc95A774521A/logo.png",
+    "rating": 1,
+    "eip2612": false,
+    "tags": [],
+    "providers": [
+      "Trust Wallet Assets"
+    ]
+  },
+  {
+    "symbol": "DAI",
+    "name": "Dai Stablecoin",
+    "chainId": 137,
+    "address": "0x843e32e30a30bdb9ae7a23ab594087e5c1bd317e",
+    "decimals": 18,
+    "rating": 0,
+    "eip2612": false,
+    "tags": [],
+    "providers": []
+  },
+  {
+    "symbol": "DAI",
+    "name": "DAI TOKEN ID",
+    "chainId": 137,
+    "address": "0x797629b257dce72878a16a511627af11e9ef8400",
+    "decimals": 18,
+    "rating": 0,
+    "eip2612": false,
+    "tags": [],
+    "providers": []
+  },
+  {
+    "symbol": "DAI",
+    "name": "(PoS) Dai Stablecoin",
+    "chainId": 137,
+    "address": "0x568dc9485a50d1a5e67639e9872b0d5b7cb9e669",
+    "decimals": 18,
+    "rating": 0,
+    "eip2612": false,
+    "tags": [],
+    "providers": []
+  },
+  {
+    "symbol": "dai",
+    "name": "Dai",
+    "chainId": 137,
+    "address": "0x74d44f102a99fbf8374462c311548bc0b599c42f",
+    "decimals": 18,
+    "rating": 0,
+    "eip2612": false,
+    "tags": [],
+    "providers": []
+  },
+  {
+    "symbol": "DAi",
+    "name": "DAi",
+    "chainId": 137,
+    "address": "0xcd51e1e29c243d1abe423b754bef31b9a1de8b66",
+    "decimals": 0,
+    "rating": 0,
+    "eip2612": false,
+    "tags": [],
+    "providers": []
+  },
+  {
+    "symbol": "DAI",
+    "name": "ning",
+    "chainId": 137,
+    "address": "0x28bf608eccff829e842d532809dd9b30dd079e91",
+    "decimals": 18,
+    "rating": 0,
+    "eip2612": false,
+    "tags": [],
+    "providers": []
+  },
+  {
+    "symbol": "DAI",
+    "name": "DAI",
+    "chainId": 137,
+    "address": "0x06aab169089c54786c88d23dc5934908b3528a76",
+    "decimals": 18,
+    "rating": 0,
+    "eip2612": false,
+    "tags": [],
+    "providers": []
+  },
+  {
+    "symbol": "DAI",
+    "name": "(PoS) Dai Stablecoin",
+    "chainId": 137,
+    "address": "0x08fa12051c513a859cd2f20513a169c4a62082f9",
+    "decimals": 18,
+    "rating": 0,
+    "eip2612": false,
+    "tags": [],
+    "providers": []
+  },
+  {
+    "symbol": "DAI",
+    "name": "Dai",
+    "chainId": 137,
+    "address": "0xca360fa8739147a86bdd526b4ae5490f38af1ae2",
+    "decimals": 18,
+    "rating": 0,
+    "eip2612": false,
+    "tags": [],
+    "providers": []
+  },
+  {
+    "symbol": "DAI",
+    "name": "DAI",
+    "chainId": 137,
+    "address": "0xacabc6ea6a00e8b5f3d04d29d43e4f089b26a980",
+    "decimals": 18,
+    "rating": 0,
+    "eip2612": false,
+    "tags": [],
+    "providers": []
+  },
+  {
+    "symbol": "DAI",
+    "name": "(PoS) Dai Stablecoin",
+    "chainId": 137,
+    "address": "0x0c985e669ea6f5e29331671c36ab078bdae34c16",
+    "decimals": 18,
+    "rating": 0,
+    "eip2612": false,
+    "tags": [],
+    "providers": []
+  },
+  {
+    "symbol": "dai",
+    "name": "dai",
+    "chainId": 137,
+    "address": "0x886082aa525debb7f17d6b120da35b288e2dcce9",
+    "decimals": 18,
+    "rating": 0,
+    "eip2612": false,
+    "tags": [],
+    "providers": []
+  },
+  {
+    "symbol": "DAI",
+    "name": "Daily Mems token",
+    "chainId": 137,
+    "address": "0xd987685d35915b9e6e70b605e610548f54eecd91",
+    "decimals": 18,
+    "rating": 0,
+    "eip2612": false,
+    "tags": [],
+    "providers": []
+  },
+  {
+    "symbol": "DAI",
+    "name": "Dai Stablecoin",
+    "chainId": 137,
+    "address": "0xc5d2bc92ca728bbc7aac7108f336ee7ce1bf4b3f",
+    "decimals": 18,
+    "rating": 0,
+    "eip2612": false,
+    "tags": [],
+    "providers": []
+  },
+  {
+    "symbol": "DAI",
+    "name": "(PoS) Dai Stablecoin",
+    "chainId": 137,
+    "address": "0x32d36f7a65a6c0421784d817172fe2b6f0939d3d",
+    "decimals": 18,
+    "rating": 0,
+    "eip2612": false,
+    "tags": [],
+    "providers": []
+  }
+]
